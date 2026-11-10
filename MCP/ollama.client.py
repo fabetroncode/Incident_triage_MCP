@@ -30,7 +30,7 @@ async def load_mcp_tools():
                     "function": {
                         "name": tool.name,
                         "description": tool.description,
-                        "parameters": tool.inputSchema,
+                        "parameters": tool.input_schema,
                     },
                 })
             return ollama_tools
