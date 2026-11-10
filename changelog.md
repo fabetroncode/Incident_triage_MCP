@@ -4,3 +4,8 @@
 - creating a folder for the mcp server, called MCP
 - Creating a python virtual environment, in the Python shell I used `python -m venv venv` and if on Windows, change directory  you activate `.\venv\scripts\activate` in linux/macos it is `source myenv/bin/activate`
 - in the environment, installed the dependancies, with `pip install fastmcp ollama requests`
+
+### 11/10/26
+- Created mcp_server.py for the client, working through the first three phases
+- finished the mcp_server.py, renaming to ollama_client.py
+
