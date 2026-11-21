@@ -9,3 +9,9 @@
 - Created mcp_server.py for the client, working through the first three phases
 - finished the mcp_server.py, renaming to ollama_client.py
 
+### 11/20/26
+- need to setup https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces for Ollama in a github codespace
+- created a requirements.txt for the codespace as well, using a virtual environment
+- for reference, to create an environment, first `python -m venv <envname>` and then if on windows `<envname>\Scripts\activate` and if on linux/mac `source <envname>/bin/activate`
+
+
